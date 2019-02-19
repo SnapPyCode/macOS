@@ -1,0 +1,18 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.electron.snappy
+mac:
+  category: your.app.category.type
+dmg:
+  contents:
+    - x: 100
+      'y': 220
+    - x: 400
+      'y': 220
+      type: link
+      path: /Applications
+  window:
+    width: 500
+    height: 300
+electronVersion: 2.0.3

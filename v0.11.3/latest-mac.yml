@@ -1,0 +1,10 @@
+version: 0.11.3
+files:
+  - url: SnapPy-0.11.3-mac.zip
+    sha512: lRtrTkhJhmJKw6/l2PIFEnZF/jYZRE8tnokbz7mYBHwb9eko1rhq2R14DmKuzkk6GG4c+zn1p7D8OLF07Ti5eA==
+  - url: SnapPy-0.11.3.dmg
+    sha512: Jt8nXanSpqSO1xv7qpxD1lnFo9BVL/iqq8U5fuLg0blqZ+af8PDTv1xOCIQk1l6KrGyzor5z/i7LVG8dKD4Bug==
+    size: 55062154
+path: SnapPy-0.11.3-mac.zip
+sha512: lRtrTkhJhmJKw6/l2PIFEnZF/jYZRE8tnokbz7mYBHwb9eko1rhq2R14DmKuzkk6GG4c+zn1p7D8OLF07Ti5eA==
+releaseDate: '2019-02-19T06:31:44.536Z'
